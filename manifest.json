@@ -1,0 +1,19 @@
+{
+  "author": {
+	  "name": "Albert Martin",
+    "email": "albert.martin@acquia.com"
+  },
+  "frameworkVersion": "0.5",
+	"location": "ticket_sidebar",
+  "defaultLocale": "en",
+  "private": true,
+  "noTemplate": true,
+  "singleInstall": true,
+  "parameters": [
+    {
+      "name": "rootCauseFields",
+      "type": "multiline",
+      "required": true
+    }
+  ]
+}

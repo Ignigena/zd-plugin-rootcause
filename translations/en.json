@@ -1,0 +1,11 @@
+{
+  "app": {
+    "description": "Root cause dropdown dependencies.",
+    "parameters": {
+      "rootCauseFields": {
+        "label": "Dependent Fields",
+        "helpText": "Must be a valid JSON-formatted associative array.  The key is expected to be the Root Cause Category with the values being the available selections in the Sub-category field."
+      }
+    }
+  }
+}
